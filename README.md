@@ -18,5 +18,11 @@ Given, "Social distance" as the only remedy out of COVID-19, along with general 
 
 ![](screenshot.png)
 
+### How to install and run
+1. Download /dist directory
+2. Once downloaded double click on the Sodium.jar
+3. The server is running now. Thats it.
+You can now connect from any device browsers just by typing ip address of this maching in URL bar
+
 ### License
 MIT License. Improvements are welcome.
