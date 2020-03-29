@@ -16,10 +16,9 @@ Given, "Social distance" as the only remedy out of COVID-19, along with general 
 * No end-user installarion
 * Multi platform suppprt
 
-![](poster.png)
 ### Demo
 ![Sodium demo](demo.gif)
-
+![](multi.png)
 ### How to install and run
 1. Download /dist directory
 2. Once downloaded double click on the Sodium.jar
