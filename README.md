@@ -17,6 +17,7 @@ Given, "Social distance" as the only remedy out of COVID-19, along with general 
 * Multi platform suppprt
 
 ![](poster.png)
+### Demo
 ![Sodium demo](demo.gif)
 
 ### How to install and run
