@@ -16,9 +16,8 @@ Given, "Social distance" as the only remedy out of COVID-19, along with general 
 * No end-user installarion
 * Multi platform suppprt
 
+![](poster.png)
 ![Sodium demo](demo.gif)
-<img src="iphonescreenshot.png" height="500"></img>
-<img src="ipadscreenshot.png" height="1000"></img>
 
 ### How to install and run
 1. Download /dist directory
