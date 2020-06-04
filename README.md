@@ -20,6 +20,7 @@ Given, "Social distance" as the only remedy out of COVID-19, along with general 
 ![Sodium demo](demo.gif)
 ![](multi.png)
 ### How to install and run
+(Same as installing Minecraft server)
 1. Download /dist directory or download Sodium-v1.0.zip from release tab and unzip in your system's desired directory.
 2. Once downloaded double click on the Sodium.jar
 3. The server is running now. Thats it.
